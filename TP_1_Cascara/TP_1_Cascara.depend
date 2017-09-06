@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1504736823 source:d:\utn\programacion\tp1\tp_1_cascara\funciones.c
+
+1504737021 source:d:\utn\programacion\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1503701537 .h"
+
+1504732488 d:\utn\programacion\tp1\tp_1_cascara\funciones.h
+
+1503701397 source:/run/media/samantha/Datos/UTN/Programacion/TP1/TP_1_Cascara/funciones.c
+
+1504732325 source:/run/media/samantha/Datos/UTN/Programacion/TP1/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504732224 /run/media/samantha/Datos/UTN/Programacion/TP1/TP_1_Cascara/funciones.h
+
